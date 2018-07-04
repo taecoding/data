@@ -1,0 +1,16 @@
+#,Item,Sweetness,Crunchiness,FoodType
+1,Apple,10,9,Fruit
+2,Bacon,1,4,Protein
+3,Banana,10,1,Fruit
+4,Carrot,7,10,Vegetable
+5,Celery,3,10,Vegetable
+6,Cheese,1,1,Protein
+7,Grape,8,5,Fruit
+8,Green bean,3,7,Vegetable
+9,Nuts,3,6,Protein
+10,Orange,7,3,Fruit
+11,Lettuce,1,9,Vegetable
+12,Cucumber,3,8,Vegetable
+13,Shrimp,2,2,Protein
+14,Fish,2,1,Protein
+15,Pear,10,8,Fruit
