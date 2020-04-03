@@ -1,0 +1,10 @@
+span.lecture-date {
+    display: inline-block;
+    width: 7em;
+    padding-left: 1em;
+}
+
+span.lecture-title {
+    display: inline-block;
+    width: 20em;
+}
