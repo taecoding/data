@@ -6,7 +6,7 @@ import base64
 base64.b64encode(csv_df.encode('utf-8'))
 '''
 
-filename = 'wages'
+filename = 'titanic'
 fin = open('encoded.' + filename)
 encodedString = fin.read()
 decodedString = base64.b64decode(encodedString)
