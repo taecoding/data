@@ -1,7 +1,7 @@
 import base64
 
 '''
-csv_df = df.to_csv()
+csv_df = df.to_csv(index=False)
 import base64
 base64.b64encode(csv_df.encode('utf-8'))
 '''
